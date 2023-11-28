@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input{
+    padding-left: 8px;
+}
+
+.eye{
+    position: absolute;
+    right: 5px;
+    top: 15px;
+}
